@@ -10,6 +10,7 @@ Here's my game plan for putting together a personal site, taking cues from Kent 
 - [ ] Kick things off with a warm hello and a snapshot of what I'm all about.
 - [ ] Drop in a quick video or note from me to make things personal right off the bat.
 - [ ] Make sure visitors can easily jump to the blog, my courses, or join the community from here.
+- [ ] Display a preview with a play button when I am live streaming.
 
 ### The Story of Me (About Page)
 - [ ] Lay out my journey, where I've been, what I'm passionate about, and what I geek out over.
